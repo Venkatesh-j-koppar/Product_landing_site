@@ -23,7 +23,7 @@ Was able to use concepts of css like selectors which are used to target a partic
 6 hrs
 
 ## Application Link
-https://product-design-landing-webpage.netlify.app/
+https://productdesignresponsive.netlify.app
 ### Techonology used:
 1. HTML
 2. CSS

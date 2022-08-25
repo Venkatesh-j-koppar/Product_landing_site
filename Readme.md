@@ -15,7 +15,7 @@ Was able to use concepts of css like selectors which are used to target a partic
 ![image](./Output.png)
 
 # Mobile View
-![image](./Mobileview.png)
+![image](./MobileView.png)
 
 
 
